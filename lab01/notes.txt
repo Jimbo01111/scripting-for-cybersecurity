@@ -1,0 +1,5 @@
+basic command
+current username = whoami
+System Hostname = hostname
+Current date and time = date
+Current working directory = pwd
