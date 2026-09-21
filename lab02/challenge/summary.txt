@@ -1,0 +1,6 @@
+Cybersecurity CLI REPORT
+User: Alex
+Host: codespaces-58199b
+Directory: /workspaces/scripting-for-cybersecurity:
+Python: /home/codespace/.python/current/bin/python3
+Python filenames found: 1

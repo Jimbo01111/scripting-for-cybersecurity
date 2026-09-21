@@ -1,0 +1,3 @@
+hostname
+/bin/bash
+/home/codespace
